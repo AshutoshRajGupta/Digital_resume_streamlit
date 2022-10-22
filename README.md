@@ -49,3 +49,7 @@ Change the ‘Main file path’ to ‘app.py’.
 Click on Deploy!
 
 # 7. Your Public App is Now Live on Streamlit Cloud!
+
+
+deployment link of my project-
+```https://ashutoshrajgupta-digital-resume-streamlit-app-p5xcsy.streamlitapp.com/```
